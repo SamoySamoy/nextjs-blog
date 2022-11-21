@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Wowwow, I am Samoyed, the best beautiful dog in the world!!!</p>
         <p>
-          This is a sample website - for more pleasevisit {" "}
+          This is a sample website - for more please visit {" "}
           <a href="https://nextjs.org/learn">Next.js tutorial</a>.
         </p>
       </section>
